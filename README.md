@@ -1,4 +1,4 @@
-Hi My name is Bhuvan Sai Adithya Masarapu
+Hi! My name is Bhuvan Sai Adithya Masarapu
 ====================================================================================================================================================
 
 CS Undergrad | Exploring Machine Learning
