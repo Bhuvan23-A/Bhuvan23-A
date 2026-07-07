@@ -2,7 +2,7 @@
 
 **CS Undergrad (AI & ML) · ACM Vice Chairperson**
 
-3rd year B.Tech student in Computer Science & Engineering with an AI & ML specialization at Joy University. I build end-to-end machine learning projects and am deeply interested in computer vision, generative AI, and data analytics.
+4th year B.Tech student in Computer Science & Engineering with an AI & ML specialization at Joy University. I build end-to-end machine learning projects and am deeply interested in computer vision, generative AI, and data analytics.
 
 ---
 
